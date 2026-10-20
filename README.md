@@ -5,10 +5,11 @@
 
 Sydney, Australia • Master of Information Technology (Internetworking) @ UTS
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.vishalverma.me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.vishalverma.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-imvishalverma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imvishalverma)
-[![GitHub](https://img.shields.io/badge/GitHub-vishalvermauts-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalvermauts)
-[![StructZero](https://img.shields.io/badge/Live_App-StructZero-4F46E5?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.structzero.app/)
+<p align="center">
+  <a href="https://www.vishalverma.me"><strong>Portfolio</strong></a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/imvishalverma"><strong>LinkedIn</strong></a> &nbsp;•&nbsp;
+  <a href="mailto:vishalvr28@gmail.com"><strong>Email</strong></a>
+</p>
 
 </div>
 
@@ -44,12 +45,12 @@ I enjoy solving difficult engineering problems, learning new technologies, and b
 
 ---
 
-### 🔷 [StructZero — AI Engineering & Multi-Agent Orchestration](https://github.com/vishalvermauts/StructZero)
+### 🔷 StructZero — AI Engineering & Multi-Agent Orchestration
 `Multi-Agent Orchestration` • `Architectural Planning` • `Developer Automation`
 > An AI engineering platform exploring collaborative agent workflows, architectural planning, persistent memory, and developer tooling.
 - **Implemented Capabilities**: Multi-agent coordination, agent debate loops, persistent memory, and codebase review workflows.
 - **Tech Stack**: `JavaScript` • `TypeScript` • `Node.js` • `React` • `LangGraph` • `LangChain` • `Google ADK` • `SQLite` • `Redis` • `MCP`
-- 🌐 **Project Website**: [structzero.app](https://www.structzero.app/)
+- 🌐 **Project Links**: [Website (structzero.app)](https://www.structzero.app/) • [Live Demo (demo.structzero.app)](https://demo.structzero.app)
 
 ---
 
@@ -127,10 +128,9 @@ I enjoy solving difficult engineering problems, learning new technologies, and b
 ## 🤝 Connect
 
 <p align="left">
-  <a href="https://www.vishalverma.me"><img src="https://img.shields.io/badge/Portfolio-vishalverma.me-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/imvishalverma"><img src="https://img.shields.io/badge/LinkedIn-imvishalverma-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/vishalvermauts"><img src="https://img.shields.io/badge/GitHub-vishalvermauts-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:vishalvr28@gmail.com"><img src="https://img.shields.io/badge/Email-vishalvr28@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.vishalverma.me"><strong>Portfolio</strong></a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/imvishalverma"><strong>LinkedIn</strong></a> &nbsp;•&nbsp;
+  <a href="mailto:vishalvr28@gmail.com"><strong>Email</strong></a>
 </p>
 
 <p align="left">
